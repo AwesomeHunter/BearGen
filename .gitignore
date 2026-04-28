@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+datasets/*.bin
+clean_datasets/*.npy
+.vscode/
+.DS_Store
