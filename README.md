@@ -1,6 +1,6 @@
 # Neural Networks Project
 
-This project was created by a friend and me during a university Neural Networks course.
+This project was created by three friends and me during a university Neural Networks course.
 
 ## Project Goal
 
